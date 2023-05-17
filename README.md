@@ -80,7 +80,7 @@ Make sure to commit and push your code at this point
 
 ### 3. Variables and looping
 
-Let's now refactor - its often a could tactic to keep your code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+Let's now refactor - its often a good tactic to keep your code [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
 If you haven't used variables, see if you can utilise variables for defining the CIDR ranges and how you might loop over them to create your subnets
 
