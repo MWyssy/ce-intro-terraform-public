@@ -50,7 +50,7 @@ Make sure to create any directories or files within this repository so that they
 
 **Screenshots**
 
-Once you have a successfull `terraform apply` take a screenshot showing the output from the command line and a second screenshot showing your EC2 instance running in the console. The screenshots should be placed within the **learn-terraform-aws-instance** directory.
+Once you have a successful `terraform apply` outcome, take a screenshot showing the output from the command line and a second screenshot showing your EC2 instance running in the console. The screenshots should be placed within the **learn-terraform-aws-instance** directory.
 
 ===
 
