@@ -4,3 +4,9 @@ variable "base_cidr_block" {
 }
 
 
+variable "availability_zones" {
+  description = "A list of availability zones"
+  type        = list(string)
+  default     = ["eu-west-2a", "eu-west-2b", "eu-west-2c"]
+}
+
