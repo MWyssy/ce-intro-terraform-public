@@ -1,2 +1,2 @@
-learn-terraform-aws-instance/.terraform
-learn-terraform-docker-container/.terraform
+/learn-terraform-aws-instance/.terraform
+/learn-terraform-docker-container/.terraform
